@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmusketeer&theme=monokai" alt="dmusketeer" /></a> </p>
 
-- 🌱 I’m currently learning **React And Express**
+- 🌱 I’m currently learning **React And Nodejs**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **tdheeraj9a@gmail.com**
 
