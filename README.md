@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Tiwari</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmusketeer&label=Profile%20views&color=0e75b6&style=flat" alt="dmusketeer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dmusketeer&label=Profile%20views&color=0e75b6&style=flat" alt="dmusketeer" /> </p>
 
 
 
