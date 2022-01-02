@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **tdheeraj9a@gmail.com**
 
+
+[![Dheeraj’s github stats](https://github-readme-stats.vercel.app/api?username=Dmusketeer)](https://github.com/Dmusketeer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmusketeer&layout=compact)](https://github.com/Dmusketeer)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
