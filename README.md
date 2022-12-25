@@ -3,6 +3,7 @@
 <h3 align="center"> Fullstack developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dmusketeer&label=Profile%20views&color=0e75b6&style=flat" alt="dmusketeer" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmusketeer&theme=monokai" alt="dmusketeer" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs**
@@ -12,6 +13,7 @@
 - 📫 How to reach me **tdheeraj9a@gmail.com**
 
 [![Dheeraj’s github stats](https://github-readme-stats.vercel.app/api?username=Dmusketeer)](https://github.com/Dmusketeer)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmusketeer&layout=compact)](https://github.com/Dmusketeer)
 
 <h3 align="left">Languages and Tools:</h3>
